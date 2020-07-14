@@ -1,0 +1,3 @@
+model_checkpoint_path: "E:\\PYCProjects\\L.P.R.S\\./model_na/model.ckpt-510"
+all_model_checkpoint_paths: "E:\\PYCProjects\\L.P.R.S\\./model_na/model.ckpt-500"
+all_model_checkpoint_paths: "E:\\PYCProjects\\L.P.R.S\\./model_na/model.ckpt-510"
